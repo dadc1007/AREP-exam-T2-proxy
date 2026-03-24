@@ -1,4 +1,4 @@
-# AREP-exam-T2-proxy
+# Examen AREP proxy
 
 ## MathService 1
 ![alt text](assets/service1.png)
@@ -39,3 +39,7 @@ El front apunta a la instancia donde se encuentra el proxy
 Donde podemos evidenciar que el proxy responde
 
 ![alt text](assets/front-evidence.png)
+
+## Video evidencia
+
+https://youtu.be/oJQLkQLqneA?si=0BLL_3-tUIZ9C_Bb
